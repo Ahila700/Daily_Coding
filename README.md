@@ -23,6 +23,7 @@
 - Moving Zeros to the End
 - Multiples of 3 and 5
 - Persistent Bugger
+- Prime Number Decompositions
 - Replace with alphabet Position
 - Simple Pig Latin
 - Simultaneous Equations Three Variables
