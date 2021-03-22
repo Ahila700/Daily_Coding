@@ -16,6 +16,7 @@
 - Counting Cuplicates
 - Creating Phone Number
 - Delete Occurences of an Element
+- Equal Sides of an Array
 - Find the Odd Int
 - Find the Parity Outlier
 - Highest Scoring Word
