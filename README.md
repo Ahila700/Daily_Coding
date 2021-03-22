@@ -26,6 +26,7 @@
 - Persistent Bugger
 - Prime Number Decompositions
 - Replace with alphabet Position
+- Rock, Paper, Scissor, Lizard, Spock Game
 - Simple Pig Latin
 - Simultaneous Equations Three Variables
 - Stop gninnipS My sdroW!
