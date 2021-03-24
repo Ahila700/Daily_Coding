@@ -17,6 +17,7 @@
 - Counting Cuplicates
 - Creating Phone Number
 - Delete Occurences of an Element
+- Directions Reduction
 - Equal Sides of an Array
 - Find the Odd Int
 - Find the Parity Outlier
