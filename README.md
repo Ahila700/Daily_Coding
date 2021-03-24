@@ -13,6 +13,7 @@
 - Array Diff
 - Bouncing Balls
 - Build a pile of Cubes
+- Build Tower
 - Counting Cuplicates
 - Creating Phone Number
 - Delete Occurences of an Element
