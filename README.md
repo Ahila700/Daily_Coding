@@ -33,4 +33,5 @@
 - Simultaneous Equations Three Variables
 - Stop gninnipS My sdroW!
 - Unique in Order
+- Weird String Case
 - Who Likes It
