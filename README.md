@@ -16,6 +16,7 @@
 - Build Tower
 - Counting Cuplicates
 - Creating Phone Number
+- Decipher This!
 - Delete Occurences of an Element
 - Directions Reduction
 - Equal Sides of an Array
