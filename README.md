@@ -24,6 +24,7 @@
 - Find the Parity Outlier
 - Highest Scoring Word
 - Human Readable Time
+- Is a Number Prime?
 - Moving Zeros to the End
 - Multiples of 3 and 5
 - Persistent Bugger
