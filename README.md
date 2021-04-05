@@ -16,7 +16,7 @@
 - Build Tower
 - Counting Cuplicates
 - Creating Phone Number
-- Decipher This!
+- Decipher This
 - Delete Occurences of an Element
 - Directions Reduction
 - Equal Sides of an Array
@@ -25,7 +25,7 @@
 - Find the Unique Number
 - Highest Scoring Word
 - Human Readable Time
-- Is a Number Prime?
+- Is a Number Prime
 - Moving Zeros to the End
 - Multiples of 3 and 5
 - Persistent Bugger
@@ -37,5 +37,5 @@
 - Stop gninnipS My sdroW!
 - Unique in Order
 - Weird String Case
-- Which Are In?
+- Which Are In
 - Who Likes It
