@@ -22,6 +22,7 @@
 - Equal Sides of an Array
 - Find the Odd Int
 - Find the Parity Outlier
+- Find the Unique Number
 - Highest Scoring Word
 - Human Readable Time
 - Is a Number Prime?
