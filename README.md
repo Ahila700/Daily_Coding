@@ -35,6 +35,7 @@
 - Simple Pig Latin
 - Simultaneous Equations Three Variables
 - Stop gninnipS My sdroW!
+- Sum of Parts
 - Unique in Order
 - Weird String Case
 - Which Are In
