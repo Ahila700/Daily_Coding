@@ -40,3 +40,7 @@
 - Weird String Case
 - Which Are In
 - Who Likes It
+
+#### CODEWARS SQL
+
+- Top 10 customers by total payments amount
