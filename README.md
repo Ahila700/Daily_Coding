@@ -41,6 +41,6 @@
 - Which Are In
 - Who Likes It
 
-#### CODEWARS SQL
+### CODEWARS SQL
 
 - Top 10 customers by total payments amount
