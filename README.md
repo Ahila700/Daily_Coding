@@ -1,4 +1,4 @@
-# Daily_Coding
+# Daily Coding
 
 ## Hackerrank Problems
 
